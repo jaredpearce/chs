@@ -8,11 +8,19 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ---
 
+## Code Samples & Playgrounds
+
+- [StackBlitz](https://stackblitz.com/@jaredpearce)
+- [CodePen](https://codepen.io/jaredpearce)
+- [CodeSandbox](https://codesandbox.io/u/jaredpearce)
+
+---
+
 ## Professional Experience
 
 ### [Model N](https://www.modeln.com)
 
-**Senior Member Technical Staff II** · 2021–2026
+**Senior Member Technical Staff II** · 2021–Present
 
 - Owned and evolved the shared frontend component library, consumed by 7 product teams and 5+ Model N solutions (e.g., Validata, Medicaid AIR, Formulary Compliance, Channel Network), through meticulous maintenance, standardized testing practices, and reliable release management practices.
 - Aligned frontend technology (Yarn, React, TypeScript, AG Grid, Ant Design, Vite, Vitest, and i18next) across software solutions from Figma UX design guidelines to Zeroheight documentation for Storybook display.

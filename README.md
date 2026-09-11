@@ -20,7 +20,7 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ### [Model N](https://www.modeln.com)
 
-**Senior Member Technical Staff II** · 2021–Present
+**Senior Member Technical Staff II** · <time datetime="2021-01-01">2021</time>–<time datetime="2026-09-01">2026</time>
 
 - Owned and evolved the shared frontend component library, consumed by 7 product teams and 5+ Model N solutions (e.g., Validata, Medicaid AIR, Formulary Compliance, Channel Network), through meticulous maintenance, standardized testing practices, and reliable release management practices.
 - Aligned frontend technology (Yarn, React, TypeScript, AG Grid, Ant Design, Vite, Vitest, and i18next) across software solutions from Figma UX design guidelines to Zeroheight documentation for Storybook display.
@@ -36,7 +36,7 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ### [Deloitte & Touche Financial Advisory Services Limited](https://www2.deloitte.com)
 
-**Lead Software Engineer II** · 2020–2021
+**Lead Software Engineer II** · <time datetime="2020-01-01">2020</time>–<time datetime="2021-01-01">2021</time>
 
 - Integrated internally hosted Sonatype Nexus repository for custom package development and distribution.
 - Managed, documented, and led efforts to migrate global components from AngularJS to Angular with TypeScript while maintaining integrated frameworks (AG Grid) and design systems as part of the published packages.
@@ -47,7 +47,7 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ### [Deloitte Risk & Financial Advisory](https://www2.deloitte.com)
 
-**Lead Software Engineer I** · 2016–2020
+**Lead Software Engineer I** · <time datetime="2016-01-01">2016</time>–<time datetime="2020-01-01">2020</time>
 
 - Major contributor to multiple npm packages (`xl-charts`, `ui-components-angular`, `ui-icons`).
 - Cumulus Challenge Hackathon team placed second (out of 500 participants) for developing a cloud-based solution to assess compliance with the U.S. Treasury Financial Manual.
@@ -59,7 +59,7 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ### [CIS by Deloitte](https://www2.deloitte.com)
 
-**Frontend Software Engineer** · 2015–2016
+**Frontend Software Engineer** · <time datetime="2015-10-01">2015</time>–<time datetime="2016-01-01">2016</time>
 
 - Spearheaded effort to deliver core UI design patterns, fashioned from AngularStrap and Bootstrap, as Angular common components for consumption by other services utilizing the eXaLink Platform.
 - Wrote and maintained "How-to" articles on component integration for services requiring detailed implementation instructions.
@@ -67,7 +67,7 @@ I'm a versatile software engineer with expertise in building frontend technology
 
 ### [The MathWorks, Inc.](https://www.mathworks.com)
 
-**Frontend Web Developer** · 2013–2015
+**Frontend Web Developer** · <time datetime="2013-05-20">2013</time>–<time datetime="2015-10-01">2015</time>
 
 - Used Agile Scrum as the application development methodology on several cross-disciplinary teams for backlog grooming, story estimation, and full feature development.
 - Provided meticulous feedback when evaluating UX wireframes for feasibility of HTML5/CSS3 conversion.
